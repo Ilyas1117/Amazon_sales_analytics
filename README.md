@@ -15,5 +15,5 @@ Tools & Technologies
 
 Database: PostgreSQL
 Visualization: Power BI, Apache Superset
-Data Processing: Python (pandas, numpy)
+Data Processing: Python (pandas,sqlalchemy)
 ETL & SQL: SQL for transformations, constraints, and analytics
